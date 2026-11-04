@@ -27,9 +27,20 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+
+## Inteligência Artificial
+
+<p align="center">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img alt="Grok" src="https://img.shields.io/badge/Grok-000000?style=for-the-badge">
 </p>
 
 ## Automação e Integrações
@@ -39,6 +50,7 @@
   <img alt="Evolution API" src="https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge">
   <img alt="APIs REST" src="https://img.shields.io/badge/APIs_REST-0EA5E9?style=for-the-badge">
   <img alt="Webhooks" src="https://img.shields.io/badge/Webhooks-8B5CF6?style=for-the-badge">
+  <img alt="Gmail API" src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   <img alt="Google Sheets" src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
@@ -83,6 +95,7 @@ Comecei montando sistemas para pequenos negócios com ferramentas no-code e hoje
 
 ## Projetos em destaque
 
+- **[ResuMe](https://github.com/RianLMA-dev/ResuMe)**: assistente para acompanhar candidaturas, feito com agentes de IA. Lê pelo Gmail (só leitura, apenas os e-mails com um marcador) as respostas de processos seletivos, classifica e extrai empresa, cargo e status com LangGraph e atualiza um kanban em Next.js, sem duplicar o mesmo processo. Também compara o currículo em PDF com a descrição de uma vaga e sugere palavras-chave e frases, com a regra de nunca inventar experiência. Dados pessoais (e-mail, telefone, CPF e links) são trocados por marcadores antes de o texto dos e-mails ir para a IA. Back-end em FastAPI com PostgreSQL, Docker Compose e testes em Pytest.
 - **[Monitor de Preços](https://github.com/RianLMA-dev/monitor-precos-n8n)**: automação em n8n que lê produtos de uma planilha, confere o preço na página da loja, atualiza a planilha e avisa no Discord quando o preço chega ao valor definido. Lê o preço por JSON-LD, com seletor CSS como alternativa, e trata falhas sem parar o fluxo. O README conta o que funcionou e o que foi bloqueado.
 - **[Encurtador de URLs](https://github.com/RianLMA-dev/url-shortener)**: API REST em FastAPI com alias personalizado, redirecionamento 302 e contagem de cliques. Código em camadas (router, service e repository), PostgreSQL com Docker Compose e 21 testes em pytest.
 
