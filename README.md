@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=230&section=header&text=RIAN%20LUCAS&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Backend%20%C2%B7%20Fullstack&descSize=20&descAlignY=60" width="100%" alt="Rian Lucas"/>
 
 <a href="https://github.com/RianLMA-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=45&lines=Construindo+agentes+de+IA+que+resolvem+problemas+reais;Automa%C3%A7%C3%A3o+com+n8n+%2B+LLMs+para+pequenos+neg%C3%B3cios;Backends+em+Python%3A+FastAPI%2C+PostgreSQL%2C+Docker+e+testes;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=45&lines=Construindo+agentes+de+IA+que+resolvem+problemas+reais;Automa%C3%A7%C3%A3o+com+n8n+%2B+LLMs+para+pequenos+neg%C3%B3cios;Backends+em+Python+com+FastAPI%2C+PostgreSQL+e+Docker;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFC" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -55,78 +55,219 @@ Comecei montando sistemas para pequenos negócios com ferramentas no-code e hoje
 <details open>
 <summary><b>🧠 Inteligência Artificial</b></summary>
 <br/>
-<p align="center">
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white">
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
-  <img alt="Grok" src="https://img.shields.io/badge/Grok-000000?style=for-the-badge">
-</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C/9FE8D4" width="48" height="48" alt="LangGraph"/><br/>
+      <sub><b>LangGraph</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C/9FE8D4" width="48" height="48" alt="LangChain"/><br/>
+      <sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/pydantic/E92063" width="48" height="48" alt="Pydantic"/><br/>
+      <sub><b>Pydantic</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini"/><br/>
+      <sub><b>Gemini</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/x/000000/FFFFFF" width="48" height="48" alt="Grok"/><br/>
+      <sub><b>Grok</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" height="48" alt="Claude Code"/><br/>
+      <sub><b>Claude Code</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 </details>
 
 <details open>
 <summary><b>⚡ Automação e Integrações</b></summary>
 <br/>
-<p align="center">
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img alt="Evolution API" src="https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge">
-  <img alt="APIs REST" src="https://img.shields.io/badge/APIs_REST-0EA5E9?style=for-the-badge">
-  <img alt="Webhooks" src="https://img.shields.io/badge/Webhooks-8B5CF6?style=for-the-badge">
-  <img alt="Gmail API" src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/><br/>
+      <sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="Evolution API"/><br/>
+      <sub><b>Evolution API</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://api.iconify.design/mdi/api.svg?color=%2322D3EE" width="48" height="48" alt="APIs REST"/><br/>
+      <sub><b>APIs REST</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://api.iconify.design/mdi/webhook.svg?color=%2322D3EE" width="48" height="48" alt="Webhooks"/><br/>
+      <sub><b>Webhooks</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail API"/><br/>
+      <sub><b>Gmail API</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48" alt="Google Sheets"/><br/>
+      <sub><b>Google Sheets</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord"/><br/>
+      <sub><b>Discord</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 </details>
 
 <details open>
 <summary><b>💻 Linguagens</b></summary>
 <br/>
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
-</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="48" height="48" alt="Java"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/c/00599C" width="48" height="48" alt="C"/><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://api.iconify.design/mdi/database.svg?color=%2322D3EE" width="48" height="48" alt="SQL"/><br/>
+      <sub><b>SQL</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 </details>
 
 <details open>
 <summary><b>🌐 Web e Frameworks</b></summary>
 <br/>
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/css/1572B6" width="48" height="48" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF" width="48" height="48" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind CSS"/><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 </details>
 
 <details open>
 <summary><b>🗄️ Banco de Dados</b></summary>
 <br/>
-<p align="center">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/sqlite/0F80CC" width="48" height="48" alt="SQLite"/><br/>
+      <sub><b>SQLite</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" width="48" height="48" alt="SQLAlchemy"/><br/>
+      <sub><b>SQLAlchemy</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 </details>
 
 <details open>
 <summary><b>🛠️ Ferramentas e Métodos</b></summary>
 <br/>
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge">
-  <img alt="Scrum" src="https://img.shields.io/badge/Scrum-7C3AED?style=for-the-badge">
-</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" width="48" height="48" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="48" height="48" alt="Pytest"/><br/>
+      <sub><b>Pytest</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" alt="Figma"/><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="112">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 </details>
 
 <br/>
@@ -169,13 +310,13 @@ flowchart LR
 - **Engenharia:** back-end em FastAPI com PostgreSQL, Docker Compose e testes em Pytest.
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python" title="Python"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="FastAPI" title="FastAPI"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C/9FE8D4" height="30" alt="LangGraph" title="LangGraph"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF" height="30" alt="Next.js" title="Next.js"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" title="Docker"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="30" alt="Pytest" title="Pytest"/>&nbsp;
 </p>
 
 ### 💸 [Monitor de Preços](https://github.com/RianLMA-dev/monitor-precos-n8n) · Automação em n8n
@@ -183,9 +324,9 @@ flowchart LR
 Lê produtos de uma planilha, confere o preço na página da loja, atualiza a planilha e **avisa no Discord** quando o preço chega ao valor definido. Lê o preço por **JSON-LD**, com seletor CSS como alternativa, e trata falhas sem parar o fluxo. O README conta o que funcionou e o que foi bloqueado.
 
 <p>
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="30" alt="n8n" title="n8n"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="30" alt="Google Sheets" title="Google Sheets"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="Discord" title="Discord"/>&nbsp;
 </p>
 
 ### 🔗 [Encurtador de URLs](https://github.com/RianLMA-dev/url-shortener) · API REST
@@ -193,10 +334,10 @@ Lê produtos de uma planilha, confere o preço na página da loja, atualiza a pl
 API em FastAPI com **alias personalizado**, redirecionamento **302** e **contagem de cliques**. Código em camadas (router, service e repository), PostgreSQL com Docker Compose e **21 testes em pytest**.
 
 <p>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="FastAPI" title="FastAPI"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" title="Docker"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="30" alt="Pytest" title="Pytest"/>&nbsp;
 </p>
 
 <br/>
